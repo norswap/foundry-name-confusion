@@ -1,0 +1,12 @@
+{
+  "name": "@opprobrium/contracts",
+  "author": "norswap",
+  "license": "BSD-3-Clause-Clear",
+  "version": "1.0.0",
+  "files": [
+    "*.sol"
+  ],
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
